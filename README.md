@@ -34,3 +34,11 @@ This course is a required image processing course at University of Rochester.
 - Image Registration
   - *Affine Transformation, Projective Transformation*
   - [Assignment](https://github.com/Bato803/Digital-Image-Processing/blob/master/Image-Registration/ECE447_Fall2015_HW7.pdf), [My Implementation](https://github.com/Bato803/Digital-Image-Processing/blob/master/Image-Registration/HomeWork%207.ipynb). 
+
+- Final Project: Image Registration for High Dynamic Range Image Generation
+  - Generated High Dynamic Range Image from a series of low dynamic range images by doing [global image registration](https://github.com/Bato803/Digital-Image-Processing/blob/master/Final-Project/global_registration.ipynb), image de-ghosting(https://github.com/Bato803/Digital-Image-Processing/blob/master/Final-Project/Ghost%20Detection-Entropy%20based.ipynb), and [multi-resolution image integration](https://github.com/Bato803/Digital-Image-Processing/blob/master/Final-Project/Histogram-based.ipynb). 
+  - Performed median threshold bitmap algorithm to detect ghosting area and highlight the ghosting area by using morphological image processing and cluster labelling.
+  - Calculated the contribution of each image to the final image based on three parameters: contrast, saturation and exposedness. Obtained three weight maps containing the weight of every pixel of each image. 
+  - Blended the images together by multi-resolution image blending algorithm, generated the final result by collapsing the Laplacian pyramid of original images and Gaussian pyramid of weight maps.  
+Rating final result by comparing with commercial software Photomatix®.
+  

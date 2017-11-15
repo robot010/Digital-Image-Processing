@@ -30,3 +30,7 @@ This course is a required image processing course at University of Rochester.
 - Morphological Image Processing
   - *Image dilation, erosion, opening and closing*
   - [Assignment](https://github.com/Bato803/Digital-Image-Processing/blob/master/Morphological-Image-Processing/ECE447_Fall2015_HW5(1).pdf), [My Implementation](https://github.com/Bato803/Digital-Image-Processing/blob/master/Morphological-Image-Processing/HomeWork%206.ipynb). 
+  
+- Image Registration
+  - *Affine Transformation, Projective Transformation*
+  - [Assignment](), [My Implementation](). 

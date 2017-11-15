@@ -12,7 +12,11 @@ This course is a required image processing course at University of Rochester.
 - Itensity Transformation. 
   - *Histogram, Sampling and Aliasing*. 
   - [Assignment](https://github.com/Bato803/Digital-Image-Processing/blob/master/Itensity-Transformation/HW2_Fall2015.pdf), [My Implementation](https://github.com/Bato803/Digital-Image-Processing/blob/master/Itensity-Transformation/HomeWork2.ipynb)
+  
 - Spatial Filtering. 
   - *Median Filter, Low-Pass Filter, Fourier Transform and Gibbs Phenomenon* 
   - [Assignment](https://github.com/Bato803/Digital-Image-Processing/blob/master/Spatial-Filtering/DIP_HW3.pdf),[My Implementation](https://github.com/Bato803/Digital-Image-Processing/blob/master/Spatial-Filtering/HW3-Spatial%20Domain%20Filtering.ipynb)
+  
+- Fourier Domain Filtering
+  - *Gaussian Low-pass, High-Pass, Band-Pass Filter; Butterworth Low-Pass, High-Pass Filters*
   

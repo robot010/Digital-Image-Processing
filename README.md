@@ -33,4 +33,4 @@ This course is a required image processing course at University of Rochester.
   
 - Image Registration
   - *Affine Transformation, Projective Transformation*
-  - [Assignment](https://github.com/Bato803/Digital-Image-Processing/blob/master/Image-Registration/HomeWork%207.pdf), [My Implementation](https://github.com/Bato803/Digital-Image-Processing/blob/master/Image-Restoration-Reconstruction/HomeWork%205%20.ipynb). 
+  - [Assignment](https://github.com/Bato803/Digital-Image-Processing/blob/master/Image-Registration/ECE447_Fall2015_HW7.pdf), [My Implementation](https://github.com/Bato803/Digital-Image-Processing/blob/master/Image-Registration/HomeWork%207.ipynb). 

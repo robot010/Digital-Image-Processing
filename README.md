@@ -21,5 +21,8 @@ This course is a required image processing course at University of Rochester.
   - *Gaussian Low-pass, High-Pass, Band-Pass Filter; Butterworth Low-Pass, High-Pass Filters*. 
   - [Assignment](https://github.com/Bato803/Digital-Image-Processing/blob/master/Fourier-Domain-Filtering/ECE447_Fall2015_HW4.pdf)，[My Implementation](https://github.com/Bato803/Digital-Image-Processing/blob/master/Fourier-Domain-Filtering/HomeWork%204.ipynb)
   
-
-  
+ - Image Restoration and Reconstruction
+    - *Image contamination with various filtering*
+    - *Radon and Inverse Radon transformation*
+    - *Reconstruct original image from contaminated image*
+    - [Assignment](https://github.com/Bato803/Digital-Image-Processing/blob/master/Image-Restoration-Reconstruction/ECE447_Fall2015_HW5.pdf)，[My Implementation](https://github.com/Bato803/Digital-Image-Processing/blob/master/Image-Restoration-Reconstruction/HomeWork%205%20.ipynb)
